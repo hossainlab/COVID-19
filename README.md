@@ -1,6 +1,6 @@
 COVID-19 Study and Awareness for Bangladesh
 ===========================================
-![COVID-19](/img/corona.png)
+![COVID-19](/img/jhu.png)
 ## A B O U T 
 
 | Title | Description |
