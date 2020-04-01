@@ -1,6 +1,6 @@
 Novel Coronavirus(COVID-19) Study
 =================================
-
+![Coronavirus](/img/jhu.png)
 
 ## COVID-19 Study Questions 
 1. What is Coronavirus? 
