@@ -1,17 +1,5 @@
-COVID-19 Study and Awareness for Bangladesh
-===========================================
+# COVID-19 Study
 ![COVID-19](/img/jhu.png)
-## A B O U T 
-
-| Title | Description |
-| --- | --- |
-| Project | COVID-19 Study and Awareness for Bangladesh|
-| Mentor|[Md. Ekramul Karim, Lecturer](https://jnu.ac.bd/profile/portal/web/652)|
-| Research Team| [BioHackers](https://www.facebook.com/biocoders/?modal=admin_todo_tour)|
-|Name of  Institute| Jagannath University|
-| Name of Department| Department of Microbiology|
-| Name of Faculty| Faculty of Life and Earth Science|
-| Team Members| [Jubayer Hossain(Team Lead)](https://github.com/jubayer-hossain), Maksudur Rahman Shihab, Shahid Hasan Munjur, Mahfuja Akter Sumona, Hasibur Rahman, Nibedita Roy Nitu, Kashfia Zaman|
 
 ## COVID-19 Study Questions 
 1. What is Coronavirus? 
